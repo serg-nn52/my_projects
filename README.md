@@ -1,12 +1,12 @@
 # my_projects
-Link's for my projects
+<h1>Link's for my projects</h1>
 
-1. Приложение - радактор заметок. Возможность добавлять, удалять, редактировать заметки, ставить хэштэги и осуществлять по ним фильтрацию.
-Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, TS, AntDesign, запросы - axios.
+<p>1. Приложение - радактор заметок. Возможность добавлять, удалять, редактировать заметки, ставить хэштэги и осуществлять по ним фильтрацию.
+Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, TS, AntDesign, запросы - axios.</p>
 
-  Деплой приложения: https://ivashin.herokuapp.com/
-  Ссылка на фронтенд: https://github.com/serg-nn52/ivashin
-  Ссылка на бэкенд: https://github.com/serg-nn52/Ivashin_express 
+  <p>Деплой приложения: https://ivashin.herokuapp.com/</p>
+  <p>Ссылка на фронтенд: https://github.com/serg-nn52/ivashin</p>
+  <p>Ссылка на бэкенд: https://github.com/serg-nn52/Ivashin_express</p>
 
 2. Пример Full Stack приложения для регистрации, авторизации, удаления, добавления в бан, удаления из бана пользователей.
 Стек технологий: backend - Node.js, Express, база данных - MySQL (работа с БД через ORM Sequelize); frontend - React, Redux Toolkit, JS, запросы - axios, библиотека компонентов Ant design, библиотека SHA-3 для хэширования паролей:
