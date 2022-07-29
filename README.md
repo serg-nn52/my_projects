@@ -11,9 +11,8 @@
 <h2>2. Приложение - пример интернет-магазина с внешним API, возможность фильтрации по цене и бренду. Адаптация под мобильные устройства.</br>
 Стек технологий: React, Redux Toolkit, Redux Persist, TS, axios.</h2>
 
-  <p>Деплой приложения: https://ivashin.herokuapp.com/</p>
-  <p>Ссылка на фронтенд: https://github.com/serg-nn52/ivashin</p>
-  <p>Ссылка на бэкенд: https://github.com/serg-nn52/Ivashin_express</p>
+  <p>Деплой приложения: https://serg-nn52.github.io/Web-Secret</p>
+  <p>Ссылка на фронтенд: https://github.com/serg-nn52/Web-Secret</p>
 
 <h2>3. Пример Full Stack приложения для регистрации, авторизации, удаления, добавления в бан, удаления из бана пользователей.</br>
 Стек технологий: backend - Node.js, Express, база данных - MySQL (работа с БД через ORM Sequelize); frontend - React, Redux Toolkit, JS, запросы - axios, библиотека компонентов Ant design, библиотека SHA-3 для хэширования паролей.</h2>
