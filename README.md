@@ -1,8 +1,8 @@
 # my_projects
 <h1>Link's for my projects</h1>
 
-<h2>1. Приложение - редактор заметок. Возможность добавлять, удалять, редактировать заметки, ставить хэштэги и осуществлять по ним фильтрацию.</br>
-Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, Typescript, AntDesign, запросы - axios.</h2>
+<h2>1. Приложение - редактор заметок, с обязательной авторизацией для доступа к заметкам. Возможность добавлять, удалять, редактировать заметки, ставить хэштэги и осуществлять по ним фильтрацию.</br>
+Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, Typescript, AntDesign, Firebase, запросы - axios.</h2>
 
   <p>Деплой приложения: https://ivashin.herokuapp.com/</p>
   <p>Ссылка на фронтенд: https://github.com/serg-nn52/ivashin</p>
