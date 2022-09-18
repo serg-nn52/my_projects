@@ -15,6 +15,11 @@
   <p>Ссылка на фронтенд: https://github.com/serg-nn52/Seobility_front</p>
   <p>Ссылка на бэкенд: https://github.com/serg-nn52/Seobility_back</p>
   
+   <h2>2. Реализация проекта с использованием методологии БЭМ, применялся gulp, препроцессор SCSS, система контроля версий GIT, JavaScript. Форма обратной связи вызывается по нвжвтию на Contact us в футере страницы, валидация полей формы.</h2>
+
+  <p>Деплой приложения: https://serg-nn52.github.io/informerdev/dist/</p>
+  <p>Ссылка на фронтенд: https://github.com/serg-nn52/informerdev</p>
+  
 <h2>3. Приложение - пример интернет-магазина с внешним API, возможность фильтрации по цене и бренду. Адаптация под мобильные устройства.</br>
 Стек технологий: React, Redux Toolkit, Redux Persist, TS, axios.</h2>
 
