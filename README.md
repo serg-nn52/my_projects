@@ -8,12 +8,13 @@
   <p>Ссылка на фронтенд: https://github.com/serg-nn52/ivashin</p>
   <p>Ссылка на бэкенд: https://github.com/serg-nn52/Ivashin_express</p>
   
- <h2>2. Приложение - пример формы обратной связи, с валидацией, красивыми стилями и написанным бэкендом. Адаптация под мобильные устройства.</br>
-Стек технологий: React, Typescript, Node.js, Express</h2>
+  <h2>2. Full Stack приложение с авторизацией - обеспечивает возможность заказа литературы конструкторами отдела. Один конструктор может заказать одну книгу, все заявки суммируются.</br>
+Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, Redux Thunk, Typescript, AntDesign, Firebase, запросы - axios.</h2>
 
-  <p>Деплой приложения: https://seobility.herokuapp.com/</p>
-  <p>Ссылка на фронтенд: https://github.com/serg-nn52/Seobility_front</p>
-  <p>Ссылка на бэкенд: https://github.com/serg-nn52/Seobility_back</p>
+  <p>Деплой приложения: https://bravo2022.herokuapp.com</p>
+  <p>Ссылка на фронтенд: https://github.com/serg-nn52/Bravo_frontend</p>
+  <p>Ссылка на бэкенд: https://github.com/serg-nn52/Bravo_Server</p>
+  
   
    <h2>3. Реализация проекта с использованием методологии БЭМ, применялся gulp, препроцессор SCSS, система контроля версий GIT, JavaScript. 
   Форма обратной связи вызывается по нвжвтию на Contact us в футере страницы, валидация полей формы.</h2>
