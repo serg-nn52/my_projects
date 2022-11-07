@@ -1,15 +1,16 @@
 # my_projects
 <h1>Link's for my projects</h1>
 
-<h2>1. React - приложение с авторизацией - редактор заметок, с обязательной авторизацией для доступа к заметкам. Возможность добавлять, удалять, редактировать заметки, ставить хэштэги и осуществлять по ним фильтрацию.</br>
-Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, Typescript, AntDesign, Firebase, запросы - axios.</h2>
+<h2>1. React - приложение с авторизацией - редактор заметок, с обязательной авторизацией для доступа к заметкам. Возможность добавлять, удалять, редактировать заметки, ставить хэштэги и осуществлять по ним фильтрацию.</h2>
+<h3>backend - Node.js, Express</br> 
+frontend - React, Redux Toolkit, Typescript, AntDesign, Firebase, запросы - axios.</h3>
 
   <p>Деплой приложения: https://ivashin.herokuapp.com/</p>
   <p>Ссылка на фронтенд: https://github.com/serg-nn52/ivashin</p>
   <p>Ссылка на бэкенд: https://github.com/serg-nn52/Ivashin_express</p>
   
  <h2>2. Vue - приложение с авторизацией - Приложение реализует процесс аутентифиĸации пользователей с переходом на страницу пользователя</br>
-  <h3 style="color: 'green';">
+  <h3>
   Frontend: Vue, Vuex, Typescript, Axios, SCSS</br>
   Backend: Node.js, Express</h2>
   </h3>
@@ -28,8 +29,9 @@
   <p>репозиторий https://github.com/serg-nn52/RusTrak</p>
   <p>деплой https://serg-nn52.github.io/RusTrak/dist/</p>
   
-  <h2>4. React-приложение с авторизацией - обеспечивает возможность заказа литературы конструкторами отдела. Один конструктор может заказать одну книгу, все заявки суммируются.</br>
-Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, Redux Thunk, Typescript, AntDesign, Firebase, запросы - axios.</h2>
+  <h2>4. React-приложение с авторизацией - обеспечивает возможность заказа литературы конструкторами отдела. Один конструктор может заказать одну книгу, все заявки суммируются.</h2>
+<h3>Стек технологий: backend - Node.js, Express</br> 
+frontend - React, Redux Toolkit, Redux Thunk, Typescript, AntDesign, Firebase, запросы - axios.</h3>
 
   <p>Деплой приложения: https://bravo2022.herokuapp.com</p>
   <p>Ссылка на фронтенд: https://github.com/serg-nn52/Bravo_frontend</p>
