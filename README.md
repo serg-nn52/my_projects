@@ -9,7 +9,7 @@
   <p>Ссылка на бэкенд: https://github.com/serg-nn52/Ivashin_express</p>
   
  <h2>2. Vue - приложение с авторизацией - Приложение реализует процесс аутентифиĸации пользователей с переходом на страницу пользователя</br>
-  <h3 style="color: green">
+  <h3 style="color: 'green';">
   Frontend: Vue, Vuex, Typescript, Axios, SCSS</br>
   Backend: Node.js, Express</h2>
   </h3>
