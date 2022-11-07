@@ -1,48 +1,34 @@
 # my_projects
 <h1>Link's for my projects</h1>
 
-<h2>1. Full Stack приложение с авторизацией - редактор заметок, с обязательной авторизацией для доступа к заметкам. Возможность добавлять, удалять, редактировать заметки, ставить хэштэги и осуществлять по ним фильтрацию.</br>
+<h2>1. React - приложение с авторизацией - редактор заметок, с обязательной авторизацией для доступа к заметкам. Возможность добавлять, удалять, редактировать заметки, ставить хэштэги и осуществлять по ним фильтрацию.</br>
 Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, Typescript, AntDesign, Firebase, запросы - axios.</h2>
 
   <p>Деплой приложения: https://ivashin.herokuapp.com/</p>
   <p>Ссылка на фронтенд: https://github.com/serg-nn52/ivashin</p>
   <p>Ссылка на бэкенд: https://github.com/serg-nn52/Ivashin_express</p>
   
-  <h2>2. Full Stack приложение с авторизацией - обеспечивает возможность заказа литературы конструкторами отдела. Один конструктор может заказать одну книгу, все заявки суммируются.</br>
-Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, Redux Thunk, Typescript, AntDesign, Firebase, запросы - axios.</h2>
+ <h2>2. Vue - приложение с авторизацией - Приложение реализует процесс аутентифиĸации пользователей с переходом на страницу пользователя</br>
+  Frontend: Vue, Vuex, Typescript, Axios, SCSS</br>
+  Backend: Node.js, Express</h2>
 
-  <p>Деплой приложения: https://bravo2022.herokuapp.com</p>
-  <p>Ссылка на фронтенд: https://github.com/serg-nn52/Bravo_frontend</p>
-  <p>Ссылка на бэкенд: https://github.com/serg-nn52/Bravo_Server</p>
+  <p>Login: uprock@uprock.ru, password: uprock</p>
+  <p>Деплой приложения: https://uprock.herokuapp.com/</p>
+  <p>Ссылка на код: https://github.com/serg-nn52/UPROCK</p>
   
-  
-   <h2>3. Реализация проекта с использованием методологии БЭМ, применялся gulp, препроцессор SCSS, система контроля версий GIT, JavaScript. 
-  Форма обратной связи вызывается по нвжвтию на Contact us в футере страницы, валидация полей формы.</h2>
-
-  <p>Деплой приложения: https://serg-nn52.github.io/informerdev/dist/</p>
+  <h2>3. Оценить адаптивную верстку, код, владение HTML5, CSS3, JS, БЭМ можно на проектах:</h2>
+ <p>Деплой приложения: https://serg-nn52.github.io/informerdev/dist/ (Нажать на Contact us в футере, для вызова формы обратной связи)</p>
   <p>Ссылка на фронтенд: https://github.com/serg-nn52/informerdev</p>
-  
-<h2>4. Приложение - пример интернет-магазина с внешним API, возможность фильтрации по цене и бренду. Адаптация под мобильные устройства.</br>
-Стек технологий: React, Redux Toolkit, Redux Persist, TS, axios.</h2>
-
-  <p>Деплой приложения: https://serg-nn52.github.io/Web-Secret</p>
-  <p>Ссылка на фронтенд: https://github.com/serg-nn52/Web-Secret</p>
-
-<h2>5. Пример Full Stack приложения для регистрации, авторизации, удаления, добавления в бан, удаления из бана пользователей.</br>
-Стек технологий: backend - Node.js, Express, база данных - MySQL (работа с БД через ORM Sequelize); frontend - React, Redux Toolkit, JS, запросы - axios, библиотека компонентов Ant design, библиотека SHA-3 для хэширования паролей.</h2>
-
-  <p>Деплой приложения: https://evening-hamlet-95523.herokuapp.com</p>
-  <p>Ссылка на фронтенд: https://github.com/serg-nn52/Task4_Itransition</p>
-
-  <h3>Рефакторинг этого приложения с использованием TypeScript:</h3>
-  <p>Деплой приложения: https://taskrefactoringts.herokuapp.com.</p>
-  <p>Ссылка на фронтенд: https://github.com/serg-nn52/Task4_Itransition_TS</p>
-  <p>Ссылка на бэкенд: https://github.com/serg-nn52/Task4_Itransition_backend_TS</p>
-
-<h2>6. Оценить адаптивную верстку, код, владение HTML5, CSS3, JS можно на проектах:</h2>
-
+  <p></br></p>
   <p>репозиторий https://github.com/serg-nn52/SITE-ELITE-Studio,</p>
   <p>деплой https://serg-nn52.github.io/SITE-ELITE-Studio/</p>
   <p></br></p>
   <p>репозиторий https://github.com/serg-nn52/RusTrak</p>
   <p>деплой https://serg-nn52.github.io/RusTrak/dist/</p>
+  
+  <h2>4. React-приложение с авторизацией - обеспечивает возможность заказа литературы конструкторами отдела. Один конструктор может заказать одну книгу, все заявки суммируются.</br>
+Стек технологий: backend - Node.js, Express, frontend - React, Redux Toolkit, Redux Thunk, Typescript, AntDesign, Firebase, запросы - axios.</h2>
+
+  <p>Деплой приложения: https://bravo2022.herokuapp.com</p>
+  <p>Ссылка на фронтенд: https://github.com/serg-nn52/Bravo_frontend</p>
+  <p>Ссылка на бэкенд: https://github.com/serg-nn52/Bravo_Server</p>
