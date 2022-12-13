@@ -10,7 +10,7 @@
 <h3>backend - Node.js, Express</br> 
 frontend - React, Redux Toolkit, Typescript, AntDesign, Firebase, запросы - axios.</h3>
 
-  <p>Деплой приложения: https://ivashin.herokuapp.com/</p>
+  <p>Деплой приложения: https://ivashin.fly.dev/</p>
   <p>Ссылка на фронтенд: https://github.com/serg-nn52/ivashin</p>
   <p>Ссылка на бэкенд: https://github.com/serg-nn52/Ivashin_express</p>
   
