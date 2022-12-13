@@ -21,7 +21,7 @@ frontend - React, Redux Toolkit, Typescript, AntDesign, Firebase, запросы
   </h3>
 
   <p>Login: uprock@uprock.ru, password: uprock</p>
-  <p>Деплой приложения: https://uprock.herokuapp.com/</p>
+  <p>Деплой приложения: https://uprock.fly.dev/</p>
   <p>Ссылка на код: https://github.com/serg-nn52/UPROCK</p>
   
   <h2>4. Оценить адаптивную верстку, код, владение HTML5, CSS3, JS, БЭМ можно на проектах:</h2>
