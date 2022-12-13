@@ -38,6 +38,6 @@ frontend - React, Redux Toolkit, Typescript, AntDesign, Firebase, запросы
 <h3>Стек технологий: backend - Node.js, Express</br> 
 frontend - React, Redux Toolkit, Redux Thunk, Typescript, AntDesign, Firebase, запросы - axios.</h3>
 
-  <p>Деплой приложения: https://bravo2022.herokuapp.com</p>
+  <p>Деплой приложения: https://bravo.fly.dev</p>
   <p>Ссылка на фронтенд: https://github.com/serg-nn52/Bravo_frontend</p>
   <p>Ссылка на бэкенд: https://github.com/serg-nn52/Bravo_Server</p>
